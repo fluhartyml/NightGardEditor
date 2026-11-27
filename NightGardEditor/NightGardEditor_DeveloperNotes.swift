@@ -560,6 +560,27 @@
  *✒️ NightGard Module Library - Reusable Swift packages for rapid development*
  *www.fluharty.me*
 
+ // ============================================================================
+ // MARK: - ABOUT THIS APP
+ // ============================================================================
+ //
+ //  NightGard Editor
+ //
+ //  Write beautifully.
+ //
+ //  Engineered with Claude by Anthropic
+ //
+ //  Copyright (c) 2025 Michael Fluharty
+ //  Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+ //  https://creativecommons.org/licenses/by-sa/4.0/
+ //
+ //  You are free to share and adapt this work under the following terms:
+ //  - Attribution: Give appropriate credit, provide a link to the license
+ //  - ShareAlike: Distribute contributions under the same license
+ //
+ //  Website: https://fluharty.me
+ //  Contact: michael@fluharty.me
+ //  Feedback and suggestions welcome!
  */
 
 // This file exists solely for documentation purposes.
